@@ -1,0 +1,224 @@
+ 
+html, body {
+    margin: 0;
+    padding: 0;
+    background: #EEE;
+}
+
+.afterlogin {
+    text-align: right;
+}
+
+.container {
+    max-width: 940px;
+    margin: 0 auto;
+    padding: 0 10px;
+}
+
+.jumbotron {
+    background: url("http://wallpapercave.com/wp/WFTMul0.jpg") no-repeat center center;
+    background-size: cover;
+    height: 800px;
+}
+
+.jumbotron3 {
+    background: url("https://68.media.tumblr.com/86532f2110a19550a7700d3ddbdbbd8d/tumblr_nvujsjYD491ui40z4o1_500.gif") no-repeat 0 -30px;;
+    background-size: cover;
+    height: 800px;
+}
+
+
+.jumbotron2 {
+    background: url("https://s-media-cache-ak0.pinimg.com/originals/14/da/66/14da661ed6b780d94aa1b23f8ff9607d.jpg") no-repeat center center;
+    background-size: cover;
+    height: 400px;
+}
+
+.header {
+    background-color: #333;
+}
+
+.nav {
+    list-style-type: none;
+    margin: 0;
+    padding: 20px 0;
+}
+
+.nav li {
+    color: #fff;
+    display: inline;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 600;
+    font-size: 12px;
+    margin-right: 25px;
+    text-transform: uppercase;
+}
+
+
+
+
+.main {
+    position: relative;
+    top: 180px;
+    text-align: center;
+}
+
+
+
+.search {
+    position: relative;
+    top: 30px;
+    text-align: center;
+}
+
+.btn-submit
+{
+    background-color: #333;
+    color: #fff;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 600;
+    font-size: 18px;
+    letter-spacing: 1.3px;
+    padding: 16px 40px;
+    text-decoration: none;
+    text-transform: uppercase;
+    border-top:0px;
+    border-bottom:0px;
+    border-right:0px;
+    border-left:0px;
+}
+
+.searcher{
+    color: #fff;
+    background-color: #333;
+    height:30px;
+    width: 600px;
+}
+
+.searcherr{
+    color: #000;
+    background-color: #fff;
+    height:30px;
+    width: 600px;
+    text-align: left;
+}
+
+.searcherupdate{
+    color: #fff;
+    background-color: #333;
+    height:30px;
+    width: 600px;
+    font-size: 18px;
+}
+
+.selector{
+    color: #fff;
+    background-color: #333;
+    height:30px;
+    width: 120px;
+}
+
+
+
+
+.main h1 {
+    color: #fff;
+    background-color: #333;
+    opacity: 0.5;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 600;
+    font-size: 70px;
+    margin-top: 0;
+    margin-bottom: 80px;
+    text-transform: uppercase;
+}
+
+
+.main h4 {
+        font-family: 'Lato', sans-serif;
+        
+        padding: 20px;
+        text-align: left;
+        width: 33.3333%;
+        
+        font-size: 16px;
+        font-weight: 200;
+        letter-spacing: 2px;
+        
+}
+
+
+.btn-main {
+    background-color: #333;
+    color: #fff;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 600;
+    font-size: 18px;
+    letter-spacing: 1.3px;
+    padding: 16px 40px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.btn-default {
+    border: 1px solid #333;
+    color: #000;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 600;
+    font-size: 10px;
+    letter-spacing: 1.3px;
+    padding: 10px 20px;
+    text-decoration: none;
+    text-transform: uppercase;
+    display: inline-block;
+    margin-bottom: 20px;
+}
+
+.supporting {
+    padding-top: 80px;
+    padding-bottom: 100px;
+}
+
+.supporting .col {
+    float: left;
+    width: 33%;
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+}
+
+.supporting img {
+    height: 32px;
+}
+
+.supporting h2 {
+    font-weight: 600;
+    font-size: 23px;
+    text-transform: uppercase;
+}
+
+.supporting p {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    padding: 0 50px;
+    margin-bottom: 40px;
+}
+
+
+
+
+.clearfix {
+    clear: both;
+}
+
+.footer {
+    background-color: #333;
+    color: #fff;
+    padding: 30px 0;
+}
+
+.footer p {
+    font-family: 'Raleway', sans-serif;
+    text-transform: uppercase;
+    font-size: 11px;
+}
